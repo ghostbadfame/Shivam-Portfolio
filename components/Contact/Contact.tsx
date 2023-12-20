@@ -25,7 +25,7 @@ const Contact: FunctionComponent<ContactProps> = () => {
           Codechef
         </ContactButton>
         <br />
-        <ContactButton link="https://drive.google.com/file/d/1pdNPEjuuSa8Tkk9c3KhUI2tgJrPf2MIy/view?usp=sharing">
+        <ContactButton link="https://drive.google.com/file/d/1GWeEgY6WwD7zlydZCoSR_AZipUFort8f/view?usp=drive_link">
           Resume
         </ContactButton>
       </ul>

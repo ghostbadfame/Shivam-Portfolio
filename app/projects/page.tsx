@@ -29,7 +29,7 @@ const PROJECTS_LIST = [
   },
   {
     name: "Webscraper-Wikipedia",
-    desc: "• Developed a robust web scraping application using Node.js, Express.js, and Cheerio and Implemented a seamless data extraction process by leveraging Cheerio’s powerful HTML parsing capabilities to scrape and extract desired information.",
+    desc: "• Developed a web scraping application using Node.js, Express.js, and Cheerio and Implemented a seamless data extraction to scrape and extract desired information.",
     image: "/4nd.jpg",
     github: "https://github.com/ghostbadfame/CSVHandler/tree/main",
   },
