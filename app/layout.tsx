@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>shivam</title>
-        <link rel="icon" href={"/icon2.ico"} />
+        <link rel="icon" href={"/gg.ico"} />
         <meta name="description" content={"WEB DEVELOPMENT AND DESIGN PORTFOLIO OF SHIVAM KAPOOR"} />
         <meta name="theme-color" content={"white"} />
         <meta name="creator" content={"Shivam Kapoor"} />
