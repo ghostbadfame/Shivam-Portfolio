@@ -10,12 +10,6 @@ import Link from "next/link";
 
 const PROJECTS_LIST = [
   {
-    name: "College-Exposed",
-    desc: `A open college reviewing platform that provides unbiased reviews about the college using NextJS, Typescript, TailwindCSS.`,
-    image: "/1n.jpg",
-    link: "https://colleges-exposed-production.vercel.app/",
-  },
-  {
     name: "Search Alien",
     desc: "A simple website, when we enter name of any Ben10 alien it will give a give information about that alien. Used ReactJS, TailwindCSS.",
     image: "/2nd.jpg",
