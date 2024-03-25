@@ -33,19 +33,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
- 
-{ 
-	"cmd": ["g++", "-std=c++14", "-Wl,--stack=41944304", "-Wall", "$file", "-o", "$file_base_name"], 
-	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
-	"selector": "source.c++", 
-	"working_dir": "$file_path", 
- 
-	"variants": 
-	[ 
-		{ 
-			"name": "Run", 
-			"cmd": ["g++", "-g", "-std=c++14", "-Wl,--stack=41944304", "-DEPSILON", "-Wall", "$file", "-o", "$file_base_name", "&&", "$file_path/$file_base_name"], 
-			"shell": true 
-		}	
-	]
-}
